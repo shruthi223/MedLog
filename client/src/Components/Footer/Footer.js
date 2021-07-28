@@ -36,10 +36,9 @@ class Footer extends React.Component {
             HealthTracker
           </Typography>
           <Typography component="p" className={classes.footerContent}>
-            Created by Sara, Kayla, Jerridd, and Phil at the University of Minnesota
+            USN: 1MS18CS119 and 1MS18CS094
           </Typography>
           <Typography component="p" className={classes.copyright}>
-            Copyright &copy; 2018
           </Typography>
         </CardContent>
       </Card>
